@@ -17,7 +17,7 @@ const Banner = () => {
 					Apps
 				</h2>
 				<p className="mt-4 max-w-[993px] mx-auto text-center text-[#627382]">
-					At HERO.IO, we craft innovative apps designed to make
+					At hero.io, we craft innovative apps designed to make
 					everyday life simpler, smarter, and more exciting.Our goal
 					is to turn your ideas into digital experiences that truly
 					make an impact.
