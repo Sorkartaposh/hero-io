@@ -28,6 +28,8 @@ CSS3 / Tailwind CSS – Responsive and modern UI styling
 
 JavaScript (ES6+) – Dynamic rendering and data handling
 
+react
+
 JSON – Structured app data source
 
 UI Avatars API – Auto-generated app logos
