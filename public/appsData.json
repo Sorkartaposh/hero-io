@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://ui-avatars.com/api/?name=Focus+Board&size=512&background=111827&color=ffffff",
+    "title": "Focus Board",
+    "companyName": "ZenWorks",
+    "description": "Focus Board helps individuals and teams plan daily tasks, manage priorities, and visualize progress using clean boards and timelines.",
+    "size": 41,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 4.2,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://ui-avatars.com/api/?name=Active+Pulse&size=512&background=064E3B&color=ffffff",
+    "title": "Active Pulse",
+    "companyName": "FitBridge",
+    "description": "Active Pulse tracks workouts, heart rate, sleep patterns, and recovery with personalized fitness insights.",
+    "size": 59,
+    "reviews": 2150,
+    "ratingAvg": 4.4,
+    "downloads": 11.6,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 925 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://ui-avatars.com/api/?name=Pix+Forge&size=512&background=312E81&color=ffffff",
+    "title": "Pix Forge",
+    "companyName": "Artify Labs",
+    "description": "Pix Forge enables fast photo editing with AI filters, background removal, and creative visual effects.",
+    "size": 73,
+    "reviews": 1040,
+    "ratingAvg": 4.2,
+    "downloads": 7.9,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 375 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://ui-avatars.com/api/?name=Cloud+Notes&size=512&background=1F2937&color=ffffff",
+    "title": "Cloud Notes",
+    "companyName": "NoteSphere",
+    "description": "Cloud Notes offers distraction-free writing, instant sync, tagging, and secure cloud backups.",
+    "size": 36,
+    "reviews": 640,
+    "ratingAvg": 4.7,
+    "downloads": 3.9,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://ui-avatars.com/api/?name=Money+Path&size=512&background=78350F&color=ffffff",
+    "title": "Money Path",
+    "companyName": "FinRoute",
+    "description": "Money Path simplifies expense tracking, budgeting, and savings goals with clear visual reports.",
+    "size": 47,
+    "reviews": 1840,
+    "ratingAvg": 4.3,
+    "downloads": 8.7,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 540 },
+      { "name": "5 star", "count": 835 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://ui-avatars.com/api/?name=Route+Planner&size=512&background=1E40AF&color=ffffff",
+    "title": "Route Planner",
+    "companyName": "TravelSync",
+    "description": "Route Planner creates smart itineraries, manages bookings, and provides offline navigation.",
+    "size": 92,
+    "reviews": 2480,
+    "ratingAvg": 4.6,
+    "downloads": 2.6,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://ui-avatars.com/api/?name=Mind+Harbor&size=512&background=065F46&color=ffffff",
+    "title": "Mind Harbor",
+    "companyName": "Wellify",
+    "description": "Mind Harbor offers guided meditation, breathing routines, mood tracking, and sleep support.",
+    "size": 61,
+    "reviews": 1720,
+    "ratingAvg": 4.8,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://ui-avatars.com/api/?name=Meal+Craft&size=512&background=9A3412&color=ffffff",
+    "title": "Meal Craft",
+    "companyName": "Cookify",
+    "description": "Meal Craft helps users discover recipes, plan meals, and track nutrition effortlessly.",
+    "size": 54,
+    "reviews": 3450,
+    "ratingAvg": 4.1,
+    "downloads": 3.8,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 690 },
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 1110 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://ui-avatars.com/api/?name=Buy+Smart&size=512&background=0F766E&color=ffffff",
+    "title": "Buy Smart",
+    "companyName": "Retailix",
+    "description": "Buy Smart delivers fast shopping, price comparisons, secure payments, and deal alerts.",
+    "size": 82,
+    "reviews": 4980,
+    "ratingAvg": 4.5,
+    "downloads": 4.9,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 690 },
+      { "name": "4 star", "count": 1380 },
+      { "name": "5 star", "count": 2360 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://ui-avatars.com/api/?name=Study+Loop&size=512&background=3730A3&color=ffffff",
+    "title": "Study Loop",
+    "companyName": "LearnStack",
+    "description": "Study Loop provides adaptive courses, quizzes, progress tracking, and certifications.",
+    "size": 118,
+    "reviews": 2280,
+    "ratingAvg": 4.6,
+    "downloads": 2.3,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 135 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://ui-avatars.com/api/?name=Private+Net&size=512&background=020617&color=ffffff",
+    "title": "Private Net",
+    "companyName": "SecureLayer",
+    "description": "Private Net encrypts traffic, hides IP addresses, and protects online privacy globally.",
+    "size": 46,
+    "reviews": 2010,
+    "ratingAvg": 4.4,
+    "downloads": 1.6,
+    "ratings": [
+      { "name": "1 star", "count": 75 },
+      { "name": "2 star", "count": 145 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 610 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://ui-avatars.com/api/?name=Daily+Steps&size=512&background=334155&color=ffffff",
+    "title": "Daily Steps",
+    "companyName": "HabitCore",
+    "description": "Daily Steps focuses on habit building through reminders, streaks, and progress insights.",
+    "size": 38,
+    "reviews": 1200,
+    "ratingAvg": 4.3,
+    "downloads": 6.8,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 85 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://ui-avatars.com/api/?name=Play+Zone&size=512&background=4C1D95&color=ffffff",
+    "title": "Play Zone",
+    "companyName": "GameNova",
+    "description": "Play Zone brings casual games, multiplayer challenges, and global leaderboards.",
+    "size": 65,
+    "reviews": 2680,
+    "ratingAvg": 4.0,
+    "downloads": 2.4,
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 750 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://ui-avatars.com/api/?name=Vital+Care&size=512&background=14532D&color=ffffff",
+    "title": "Vital Care",
+    "companyName": "MediTrack",
+    "description": "Vital Care tracks health metrics, medications, and wellness goals in one secure app.",
+    "size": 71,
+    "reviews": 1620,
+    "ratingAvg": 4.5,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://ui-avatars.com/api/?name=Scan+Fast&size=512&background=1E3A8A&color=ffffff",
+    "title": "Scan Fast",
+    "companyName": "FileSnap",
+    "description": "Scan Fast converts documents into PDFs with OCR, filters, and secure cloud storage.",
+    "size": 34,
+    "reviews": 1040,
+    "ratingAvg": 4.4,
+    "downloads": 5.9,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 445 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://ui-avatars.com/api/?name=Coin+Pulse&size=512&background=7C2D12&color=ffffff",
+    "title": "Coin Pulse",
+    "companyName": "BlockTrend",
+    "description": "Coin Pulse tracks crypto prices, alerts, and portfolio performance securely.",
+    "size": 56,
+    "reviews": 1480,
+    "ratingAvg": 4.3,
+    "downloads": 10.2,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 655 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://ui-avatars.com/api/?name=Sound+Nest&size=512&background=0F172A&color=ffffff",
+    "title": "Sound Nest",
+    "companyName": "AudioWave",
+    "description": "Sound Nest delivers music streaming, curated playlists, and offline listening.",
+    "size": 86,
+    "reviews": 4020,
+    "ratingAvg": 4.6,
+    "downloads": 4.7,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1280 },
+      { "name": "5 star", "count": 1610 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://ui-avatars.com/api/?name=Smart+Nest&size=512&background=365314&color=ffffff",
+    "title": "Smart Nest",
+    "companyName": "HomeIQ",
+    "description": "Smart Nest controls smart home devices, automation routines, and energy usage.",
+    "size": 69,
+    "reviews": 1820,
+    "ratingAvg": 4.5,
+    "downloads": 2.5,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 115 },
+      { "name": "3 star", "count": 235 },
+      { "name": "4 star", "count": 560 },
+      { "name": "5 star", "count": 830 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://ui-avatars.com/api/?name=Speak+Now&size=512&background=1D4ED8&color=ffffff",
+    "title": "Speak Now",
+    "companyName": "Langify",
+    "description": "Speak Now teaches languages with AI tutors, speech recognition, and daily practice.",
+    "size": 62,
+    "reviews": 2380,
+    "ratingAvg": 4.7,
+    "downloads": 3.1,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://ui-avatars.com/api/?name=Meet+Hub&size=512&background=7C3AED&color=ffffff",
+    "title": "Meet Hub",
+    "companyName": "Eventrix",
+    "description": "Meet Hub helps users discover, create, and manage events with smart notifications.",
+    "size": 74,
+    "reviews": 1380,
+    "ratingAvg": 4.3,
+    "downloads": 10.1,
+    "ratings": [
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 580 }
+    ]
+  }
+]
